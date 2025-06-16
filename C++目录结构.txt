@@ -1,0 +1,20 @@
+WeldTracker/
+├── CMakeLists.txt
+├── include/
+│   ├── ImageMethod/
+│   ├── RobotMethod/
+│   ├── PythonMethod/
+│   ├── TxtMethod/           # 模块化头文件目录
+│   │   └── TxtMethod.h
+│   └── WTrackDType.h
+├── src/
+│   ├── TxtMethod/
+│   │   └── TxtMethod.cpp    # 与头文件对应
+│   └── WeldTracker.cpp
+├── tests/
+│   ├── test_TxtMethod.cpp
+│   └── test_WTrackDType.cpp
+├── ui/
+└── out/
+    ├── bin/
+    └── lib/

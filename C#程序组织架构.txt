@@ -1,0 +1,20 @@
+WeldTracker/
+|--.idea
+|--.vs
+|--WeldTrackApp
+|   |--bin
+|   |--ImageMethod
+|       |--HGetImage.cs
+|       |--Matrix.cs
+|       |--PixelToLaserCoord.cs
+|   |--RobotMethod
+|       |--LaserCoordToTcp.cs
+|       |--MotoManTCP.cs
+|       |--TrackAlgMethod.cs
+|       |--TrackConfigMethod.cs
+|   |--PythonMethod
+|       |--deep_learning_model_inference.py
+|   |--MainForm.cs
+|   |--Program.cs
+|   |--TxtMethod.cs
+|   |--WTrackDType.cs
