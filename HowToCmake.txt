@@ -1,0 +1,9 @@
+1. cmake -Bbuild -G"MinGW Makefiles"
+解释：
+	1. -Bxxx 将build_diretory设置为xxx。效果就是自动创建xxx文件夹，在里面cmake。
+	2. -G"MinGW Makefiles" 是设置使用MinGW的cmake，而不是msvc的cmake。
+
+2. cmake --build build 
+解释：
+	1. 等价于：cd build & build
+

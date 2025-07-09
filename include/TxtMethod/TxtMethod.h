@@ -11,7 +11,7 @@ public:
 	 * @param FileName 文件路径
 	 * @return 二维向量，内层向量固定为3个元素 [x, y, z]
 	 */
-	std::vector<std::vector<double>> ReadData(const std::stirng& FileName);
+	std::vector<std::vector<double>> ReadData(const std::string& FileName);
 
 	/**
 	*将数据写入文本文件（数值格式化为"0000.00"）

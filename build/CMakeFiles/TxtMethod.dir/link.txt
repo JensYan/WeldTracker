@@ -1,0 +1,2 @@
+/usr/bin/ar qc out/lib/libTxtMethod.a CMakeFiles/TxtMethod.dir/src/TxtMethod/TxtMethod.cpp.o
+/usr/bin/ranlib out/lib/libTxtMethod.a

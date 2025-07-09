@@ -1,0 +1,2 @@
+/usr/bin/ar qc out/lib/libLaserCoordToTcp.a CMakeFiles/LaserCoordToTcp.dir/src/RobotMethod/LaserCoordToTcp.cpp.o
+/usr/bin/ranlib out/lib/libLaserCoordToTcp.a

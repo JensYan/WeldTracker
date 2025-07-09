@@ -1,4 +1,4 @@
-#include "TxtMethod.h"
+#include "TxtMethod/TxtMethod.h"
 #include <sstream>
 #include <iomanip>
 #include <iostream>

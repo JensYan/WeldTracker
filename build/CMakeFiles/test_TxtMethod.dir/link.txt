@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/test_TxtMethod.dir/tests/test_TxtMethod.cpp.o -o out/bin/test_TxtMethod  out/lib/libTxtMethod.a /home/HwHiAiUser/WeldTrackAppCPP/CppLib/lib/libgtest.a /home/HwHiAiUser/WeldTrackAppCPP/CppLib/lib/libgtest_main.a /home/HwHiAiUser/WeldTrackAppCPP/CppLib/lib/libgtest.a 

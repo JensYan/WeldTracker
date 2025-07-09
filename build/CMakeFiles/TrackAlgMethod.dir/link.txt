@@ -1,0 +1,2 @@
+/usr/bin/ar qc out/lib/libTrackAlgMethod.a CMakeFiles/TrackAlgMethod.dir/src/RobotMethod/TrackAlgMethod.cpp.o
+/usr/bin/ranlib out/lib/libTrackAlgMethod.a
