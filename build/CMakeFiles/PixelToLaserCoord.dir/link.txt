@@ -1,2 +1,0 @@
-/usr/bin/ar qc out/lib/libPixelToLaserCoord.a CMakeFiles/PixelToLaserCoord.dir/src/ImageMethod/PixelToLaserCoord.cpp.o
-/usr/bin/ranlib out/lib/libPixelToLaserCoord.a

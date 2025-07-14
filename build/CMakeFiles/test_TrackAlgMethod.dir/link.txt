@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/test_TrackAlgMethod.dir/tests/test_TrackAlgMethod.cpp.o -o out/bin/test_TrackAlgMethod  out/lib/libTrackAlgMethod.a /home/HwHiAiUser/WeldTrackAppCPP/CppLib/lib/libgtest.a /home/HwHiAiUser/WeldTrackAppCPP/CppLib/lib/libgtest_main.a /home/HwHiAiUser/WeldTrackAppCPP/CppLib/lib/libgtest.a 

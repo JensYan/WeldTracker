@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/test_PixelToLaserCoord.dir/tests/test_PixelToLaserCoord.cpp.o -o out/bin/test_PixelToLaserCoord  out/lib/libPixelToLaserCoord.a /home/HwHiAiUser/WeldTrackAppCPP/CppLib/lib/libgtest.a /home/HwHiAiUser/WeldTrackAppCPP/CppLib/lib/libgtest_main.a /home/HwHiAiUser/WeldTrackAppCPP/CppLib/lib/libgtest.a 

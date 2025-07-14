@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/test_WTrackDType.dir/tests/test_WTrackDType.cpp.o -o out/bin/test_WTrackDType  /home/HwHiAiUser/WeldTrackAppCPP/CppLib/lib/libgtest.a /home/HwHiAiUser/WeldTrackAppCPP/CppLib/lib/libgtest_main.a /home/HwHiAiUser/WeldTrackAppCPP/CppLib/lib/libgtest.a 
